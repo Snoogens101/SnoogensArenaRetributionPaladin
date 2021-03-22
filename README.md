@@ -10,6 +10,10 @@ Place the `license.txt` file you've recieved by email after purchasing in the `S
 
 I recommend using this rotation together with Aimsharp's ArenaPVP Kicks plugin.  
 
+WeakAuras can be found here:  
+https://wago.io/l4EUWMc9V  
+Password: `aimsharp`
+
 ***
 
 ## Featuring:  
