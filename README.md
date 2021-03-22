@@ -64,7 +64,7 @@ Password: `aimsharp`
 **Auto Hand of Reckoning!**  
 • Casts Hand of Reckoning on the target when there's no other option to keep them in combat    
 
-**WeakAuras Support!**
+**WeakAuras Support!**  
 • See what toggles are On/Off using custom WeakAuras  
 
 **Trinket Support!**  
