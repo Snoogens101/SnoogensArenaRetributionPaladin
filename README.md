@@ -142,26 +142,26 @@ Queues Blessing of Sanctuary @ Target if Target is Friendly on the next GCD
 **Reaction Time (ms):** - Enter your preferred reaction time in milliseconds for features such as Blessing of Freedom, Sanctuary etc. I recommend keeping it as default.  
 **Convenant:** - Select your Covenant  
 
-**Trinkets and Phial**  
+####Trinkets and Phial   
 **Top/Bottom Trinket:** - Set to `On-use DPS` that you want to use during Burst.  Set to `On-use HP` to use automatically at 35% Health.  
 **Auto Summon Steward** - Automatically Summons your Steward in Arena before the doors open so you won't forget your potions.  
 **Auto Phial of Serenity @ HP%** - Uses your Phial of Serenity automatically at the set and below Health percentage.  
 **Auto Healthstone @ HP%** - Uses Healthstone automatically at the set and below Health percentage.  
 
-**Word of Glory - Toggle**  
+####Word of Glory - Toggle  
 **No WoG during Burst:** - Doesn't use WoG when WordofGloryT is On and you're in Burst mode  
 **Auto Word of Glory Player @ HP%** - Casts Word of Glory on Player @ HP% and under  
 **Auto Word of Glory Party @ HP%** - Casts Word of Glory on Party @ HP% and under  
 
-**Divine Shield**  
+####Divine Shield  
 **Auto Divine Shield @ HP%:** - Enables Auto Divine Shield @ HP%   
 **Auto Divine Basic @ HP%** - Casts Divine Shield @ HP%   
 
-**Lay on Hands**  
+####Lay on Hands  
 **Auto Lay on Hands @ HP%:** - Enables Auto Lay on Hands @ HP%  
 **Auto LoH Basic @ HP%** - Casts Lay on Hands @ HP%  
 
-**Blessing of Protection**  
+####Blessing of Protection  
 **Auto Blessing of Protection @ Player:** - Enables Auto Blessing of Protection @ Player  
 **Auto BoP Player Reactive @ HP%** - Casts BoP when certain offensive enemy buffs are popped @ Player HP%  
 **Auto BoP Player Basic @ HP%** - Casts BoP @ Player HP%  
@@ -169,27 +169,27 @@ Queues Blessing of Sanctuary @ Target if Target is Friendly on the next GCD
 **Auto BoP Party Reactive @ HP%** - Casts BoP when certain offensive enemy buffs are popped @ Party HP%  
 **Auto BoP Party Basic @ HP%** - Casts BoP @ Party HP%  
 
-**Shield of Vengeance**  
+####Shield of Vengeance  
 **Auto Shield of Vengeance @ Player:** - Enables Auto Shield of Vengeance @ Player  
 **Auto SoV Reactive @ HP%** - Casts SoV when certain offensive enemy buffs are popped @ Player HP%  
 **Auto SoV Basic @ HP%** - Casts SoV @ Player HP%  
 
-**Eye for an Eye**  
+####Eye for an Eye  
 **Auto Eye for an Eye @ Player:** - Enables Auto Eye for an Eye @ Player  
 **Auto EfaE Reactive @ HP%** - Casts EfaE when certain offensive enemy buffs are popped @ Player HP%  
 **Auto EfaE Basic @ HP%** - Casts EfaE @ Player HP%  
 
-**Blessing of Sacrifice**  
+####Blessing of Sacrifice  
 **Auto Blessing of Sacrifice @ Party:** - Enables Auto Blessing of Sacrifice @ Party  
 **Auto BoSac Party Reactive @ HP%** - Casts BoSac when certain offensive enemy buffs are popped @ Party HP%  
 **Auto BoSac Party Basic @ HP%** - Casts BoSac @ Player HP%  
 
-**Blessing of Sanctuary**  
+####Blessing of Sanctuary  
 **Auto Blessing of Sanctuary @ Party:** - Enables Auto Blessing of Sanctuary @ Party  
 **Auto BoSanc Party/Player Reactive @ HP%** - Casts BoSanc when specific CCs and Silences are used @ Party/Player HP%  
 **Sanc CC or Silence above X seconds:** - Enables Auto BoSanc on CC and Silences above X seconds  
 
-**Blessing of Freedom**  
+####Blessing of Freedom  
 **Auto Blessing of Freedom @ Player:** - Enables Auto Blessing of Freedom @ Player  
 **BoF Roots @ Player:** - Enables Auto BoF when Rooted @ Player  
 **BoF Roots @ Player above X seconds:** - Enables Auto BoF for Roots @ Player above X seconds  
@@ -202,15 +202,15 @@ Queues Blessing of Sanctuary @ Target if Target is Friendly on the next GCD
 **BoF Slows @ Party:** - Enables Auto BoF when Slowed @ Party  
 **BoF Slows @ Party above X seconds:** - Enables Auto BoF for Slows @ Party above X seconds  
 
-**Cleanse Toxins**  
+####Cleanse Toxins  
 **Auto Cleanse Toxins @ Player:** - Enables Auto Cleanse Toxins @ Player  
 **Auto Cleanse Toxins during Burst:** - Enables Auto Cleanse Toxins during Burst mode  
 
-**Casting**  
+####Casting  
 **Cast Final Reckoning @ Player:** - Casts Final Reckoning @ Player during Burst - selecting neither Cursor or Player will default to manual click  
 **Cast Final Reckoning @ Cursor:** - Casts Fianl Reckoning @ Cursor during Burst - selecting neither Cursor or Player will default to manual click  
 
-**Miscellaneous**  
+####Miscellaneous  
 **Auto Aura Fallback:** - Auto Aura to fall back to when no Aura Toggle is used  
 **Auto Crusader Aura when Mounted:** - Casts Crusader Aura when mounted, casts toggled or fallback Aura when close to enemy Arena player  
 **Auto Dispel Mindgames (Racial):** - Casts Fireblood or Stoneform when under the effects of Mindgames  
@@ -220,7 +220,7 @@ Queues Blessing of Sanctuary @ Target if Target is Friendly on the next GCD
 **Auto Hand of Reckoning:** - Casts Hand of Reckoning @ target when no other ranged abilities are available  
 **WeakAuras Support:** - Enables support for the WeakAuras: https://wago.io/l4EUWMc9V  
 
-**Auto Focus**  
+####Auto Focus  
 **Auto Focus non-target 2v2:** - Automatically sets focus on the enemy arena player who isn't your target in a 2v2 arena.  
 **Auto Focus Healer 3v3:** - Automatically sets focus on the enemy arena player who is a Healer. Once an enemy player dies so only two remain, it falls back to focusing who isn't your target.  
 
