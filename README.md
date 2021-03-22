@@ -22,59 +22,46 @@ Password: `aimsharp`
 •	Optimized Burst rotation based on customized SimC APL simulations and experience from both myself and my testers  
 
 **Burst Preparation Mode!**  
-•	Let all the stars align before automatically taking you into Burst mode!  
+•	Makes sure you will get maximum efficiency from your Burst before automatically placing you in Burst mode  
 
 **Trinket Support!**  
 •	DPS trinkets when you're Bursting, HP trinket when you're on low Health  
 
 **Covenant Support!**  
-•	Supports all Covenants!   
+•	Supports all Covenants   
 
 **Automatic Defensives/Mitigations!**  
 •	Auto Phial of Serenity @ HP%  
-•	Auto Summon Steward (so you don't forget your Phial!)  
+•	Auto Summon Steward at the beginning of Arena  
 •	Healthstone @ HP%  
 
 **Placeable, @Cursor or @Player Casts!**  
 • Choose how you want to auto cast Final Reckoning  
 
 **Auto Hand of Reckoning!**  
-• Target not in range and you want to keep them in combat? No ranged attacks ready? Hand of Reckoning!  
+• Casts Hand of Reckoning on the target when there's no other option to keep them in combat    
 
 **Auto Cleanse Toxins!**  
-• Cleanse yourself of any important Poisons and Diseases!  
-
-**Auto Paralysis on Big Damage Interrupt!**  
-• Interrupt isn't ready, but there's someone about to destroy your world? No worries, let's Paralysis them.    
+• Cleanses yourself of any important Poisons and Diseases    
 
 **Auto Hammer of Justice on Focus during Burst!**  
-• Want to make sure your Focus gets CC'd without you even needing to think about it during Burst? No worries, I'll Hammer of Justice them for you, without any CC overlap.  
+• Casts Hammer of Justice on your Focus during Burst while doing various checks to make sure you're not overlapping CC or casting into Immune players  
 
 **Auto Focus!**  
-• You're playing 2v2, wouldn't it be nice that the one you're not fighting ends up as your focus for fast @focus Paralysis queues? Well, look no further!  
-• You're playing 3v3, wouldn't it be nice if that Healer ended up as your focus target? Once again, look no further!  
+• 2v2 - Automatically focuses whoever you're not targeting  
+• 3v3 - Automatically focuses the Healer  
 
 **Immunity Checks!**  
-• Don't waste Holy Power on that immune guy, no point.  
-• Don't Hammer of Justice them if they're immune due to an abiility or DR. I won't let you!  
+• Checks against all possible immunities (including DR) before doing any abilities, stuns etc. Fully dymanic based on what each ability does  
 
 **Racial Support!**  
-• Pops your damaging Racial when it's supposed to!  
+• Uses your Racial ability when it's best    
 
 **Auto Blessing of Freedom Roots!**  
-• Feel like playing on Auto Pilot without thinking? No problem, when you or your party are rooted I will remove it will Blessing of Freedom.  
+• Advanced logic to remove Roots from yourself and your party members.    
 
 **Auto Blessing of Freedom Slows!**  
-• Feel like playing on Auto Pilot without thinking? No problem, when you or your party are slowed I will remove it will Blessing of Freedom.  
-
-**Cancel FoF to WDP and ToD @ HP%!**  
-• Got a good grasp of when a WDP will bring your target to 15% or below for an instant kill with ToD? No problem, I will force it to happen for you.  
-
-**Auto Transcendence: Transfer @ HP%!**  
-• Don't want to manage your teleport and just let it happen when you're low? I got you mate.  
-
-**Auto Defensives on Demon Hunter: The Hunt!**  
-• I'll automatically pop a defensive CD for you when a Demon Hunter is about to finish casting The Hunt on you.  
+• Advanced logic to remove Slows from yourself and your party members.  
 
 ***
 
