@@ -12,13 +12,11 @@ I recommend using this rotation together with Aimsharp's ArenaPVP Kicks plugin.
 
 WeakAuras can be found here:  
 https://wago.io/l4EUWMc9V  
-Password: `aimsharp`
+Password: `aimsharp`  
 
 ***
 
 ## Featuring:  
-**Reaction Time!**  
-•	Customize how fast you want to react with things such as Auto Grapple, Auto Diffuse Magic, Auto Dampen Harm etc  
 
 **Burst Mode!**  
 •	Optimized Burst rotation based on customized SimC APL simulations and experience from both myself and my testers  
@@ -26,13 +24,8 @@ Password: `aimsharp`
 **Burst Preparation Mode!**  
 •	Let all the stars align before automatically taking you into Burst mode!  
 
-**Auto Target!**  
-•	Makes sure you're your targeting a player, not a pet, mirror image etc!  
-•	If there's a Totem, all you have to do is press tab and it will skip the unecessary things to find the totem, Tiger Palm it then target an enemy again!  
-•	If there's a Wildseed, all you have to do is press tab and it will skip the unecessary things to find the Wildseed!  
-
 **Trinket Support!**  
-•	DPS trinkets when you're Bursting, HP trinket when you're low  
+•	DPS trinkets when you're Bursting, HP trinket when you're on low Health  
 
 **Covenant Support!**  
 •	Supports all Covenants!   
@@ -40,62 +33,39 @@ Password: `aimsharp`
 **Automatic Defensives/Mitigations!**  
 •	Auto Phial of Serenity @ HP%  
 •	Auto Summon Steward (so you don't forget your Phial!)  
-•	Auto Diffuse Magic on Big Damage Spells (but only if the caster is shooting at you!)  
-•	Auto Diffuse Magic on Big Debuff Combos    
-•	Auto Diffuse Magic on Combustion (but only if the mage is going for you!)   
-•	Auto Diffuse Magic on Touch of Karma    
-•	Auto Diffuse Magic on Mindgames  
-•	Auto Dampen Harm on Big Damage Buffs    
-•	Auto Fortifying Brew @ HP%  
-•	Auto Touch of Karma @ HP%  
 •	Healthstone @ HP%  
-•	Panic CC @ HP%
 
-**Placeable or @Cursor Casts!**  
-• Choose if you want to Ring of Peace @ Cursor or not  
+**Placeable, @Cursor or @Player Casts!**  
+• Choose how you want to auto cast Final Reckoning  
 
-**Auto Grapple Weapon!**  
-• Is there someone who's ready to burst you the hell down? Sorry mate, I'm about to yoinks your weapon.   
+**Auto Hand of Reckoning!**  
+• Target not in range and you want to keep them in combat? No ranged attacks ready? Hand of Reckoning!  
 
-**Auto Provoke!**  
-• Target not in range and you want to keep them in combat? Provoke them!  
-
-**Auto Tigereye Brew!**  
-• Paladin just popped Blessing of Protection on your target? Tigereye Brew to the rescue!    
-• Your target takes more damage if Tigereye Brew is active? Tigereye Brew to the rescue!   
-•	Your target no longer takes Magical Damage? Tigereye Brew Auto Cancel to the rescue!  
-
-**Auto Detox!**  
-• Detox yourself, your party, whatever you want - only important stuff!    
-
-**Auto Slow Flying Serpent Kick!**  
-• Your target is super far away, not slowed and you're having a hard time catching up? No worries, aim your Flying Serpent Kick and I will slow them when you reach them!  
+**Auto Cleanse Toxins!**  
+• Cleanse yourself of any important Poisons and Diseases!  
 
 **Auto Paralysis on Big Damage Interrupt!**  
 • Interrupt isn't ready, but there's someone about to destroy your world? No worries, let's Paralysis them.    
 
-**Auto Ring of Peace on Big Damage Interrupt!**  
-• Interrupt isn't ready, Paralysis isn't ready, but there's someone about to destroy your world and you're in range of smacking down a RoP at your feet? That's what we do.  
-
-**Auto Paralysis on Focus during Burst!**  
-• Want to make sure your Focus gets CC'd without you even needing to think about it during Burst? No worries, I'll Paralysis them for you, without any CC overlap.  
+**Auto Hammer of Justice on Focus during Burst!**  
+• Want to make sure your Focus gets CC'd without you even needing to think about it during Burst? No worries, I'll Hammer of Justice them for you, without any CC overlap.  
 
 **Auto Focus!**  
 • You're playing 2v2, wouldn't it be nice that the one you're not fighting ends up as your focus for fast @focus Paralysis queues? Well, look no further!  
 • You're playing 3v3, wouldn't it be nice if that Healer ended up as your focus target? Once again, look no further!  
 
 **Immunity Checks!**  
-• Don't waste Energy or Chi on that immune guy, no point.  
-• Don't Paralysis them if they're immune due to an abiility or DR. I won't let you!  
+• Don't waste Holy Power on that immune guy, no point.  
+• Don't Hammer of Justice them if they're immune due to an abiility or DR. I won't let you!  
 
 **Racial Support!**  
 • Pops your damaging Racial when it's supposed to!  
 
-**Auto Tiger's Lust Roots!**  
-• Feel like playing on Auto Pilot without thinking? No problem, when you're rooted I will remove it will Tiger's Lust.  
+**Auto Blessing of Freedom Roots!**  
+• Feel like playing on Auto Pilot without thinking? No problem, when you or your party are rooted I will remove it will Blessing of Freedom.  
 
-**Auto Tiger's Lust Slows!**  
-• Feel like playing on Auto Pilot without thinking? No problem, when you're slowed I will remove it will Tiger's Lust.  
+**Auto Blessing of Freedom Slows!**  
+• Feel like playing on Auto Pilot without thinking? No problem, when you or your party are slowed I will remove it will Blessing of Freedom.  
 
 **Cancel FoF to WDP and ToD @ HP%!**  
 • Got a good grasp of when a WDP will bring your target to 15% or below for an instant kill with ToD? No problem, I will force it to happen for you.  
