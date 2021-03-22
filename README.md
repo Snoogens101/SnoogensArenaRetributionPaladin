@@ -221,8 +221,8 @@ Queues Blessing of Sanctuary @ Target if Target is Friendly on the next GCD
 **WeakAuras Support:** - Enables support for the WeakAuras: https://wago.io/l4EUWMc9V  
 
 **Auto Focus**  
-**Auto Focus non-target 2v2:** - Automatically sets focus on the enemy arena player who isn't your target in a 2v2.  
-**Auto Focus Healer 3v3:** - Automatically sets focus on the enemy arena player who is a Healer. One enemy player dies so only two remains, it falls back to focusing who isn't your target.  
+**Auto Focus non-target 2v2:** - Automatically sets focus on the enemy arena player who isn't your target in a 2v2 arena.  
+**Auto Focus Healer 3v3:** - Automatically sets focus on the enemy arena player who is a Healer. Once an enemy player dies so only two remain, it falls back to focusing who isn't your target.  
 
 
 ***
