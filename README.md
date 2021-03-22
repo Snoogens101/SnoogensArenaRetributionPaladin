@@ -121,7 +121,7 @@ Queues Blessing of Sanctuary @ Target if Target is Friendly on the next GCD
 **Reaction Time (ms):** - enter your preferred reaction time in milliseconds for features such as Grapple Weapon, Diffuse Magic etc. I recommend keeping it as default.  
 
 **Trinkets and Phial**
-**Top/Bottom Trinket:** - Set the one to `On-use DPS` that you want to use during Burst, i.e. your on-use damage trinket. 
+**Top/Bottom Trinket:** - Set the one to `On-use DPS` that you want to use during Burst, i.e. your on-use damage trinket.  
 Set to `On-use HP` to use automatically at 35% Health.  
 **Auto Phial of Serenity @ HP%** - Uses your Phial of Serenity automatically at the set and below Health percentage.  
 **Auto Summon Steward** - Automatically Summons your Steward in Arena before the doors open so you won't forget your potions.  
