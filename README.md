@@ -69,7 +69,7 @@ Password: `aimsharp`
 `/xxxxx Burst`  
 Toggles Burst mode rotation On (off default)  
 `/xxxxx BurstPrep`  
-Toggles Burst Preparation mode rotation On (off default) - conserves important Burst CDs and saves up Chi to automatically place you in Burst mode when all is ready  
+Toggles Burst Preparation mode rotation On (off default) - conserves important Burst CDs and saves up Holy Power to automatically place you in Burst mode when all is ready  
 `/xxxxx HoldXuenSecondSEF`  
 Toggles Hold Xuen for the 2nd Storm, Earth, and Fire On (off default) - good to use when you know the kill-target will not die during the first SEF  
 `/xxxxx Vivify`  
