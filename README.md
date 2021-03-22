@@ -163,35 +163,67 @@ Queues Blessing of Sanctuary @ Target if Target is Friendly on the next GCD
 
 **Blessing of Protection**  
 **Auto Blessing of Protection @ Player:** - Enables Auto Blessing of Protection @ Player  
-**Auto BoP Player Reactive @ HP%**
-**Auto BoP Player Basic @ HP%**
-**Auto Blessing of Protection @ Party:**
-**Auto BoP Party Reactive @ HP%**
-**Auto BoP Party Basic @ HP%**
+**Auto BoP Player Reactive @ HP%** - Casts BoP when certain offensive enemy buffs are popped @ Player HP%  
+**Auto BoP Player Basic @ HP%** - Casts BoP @ Player HP%  
+**Auto Blessing of Protection @ Party:** - Enables Auto Blessing of Protection @ Party  
+**Auto BoP Party Reactive @ HP%** - Casts BoP when certain offensive enemy buffs are popped @ Party HP%  
+**Auto BoP Party Basic @ HP%** - Casts BoP @ Party HP%  
+
+**Shield of Vengeance**  
+**Auto Shield of Vengeance @ Player:** - Enables Auto Shield of Vengeance @ Player  
+**Auto SoV Reactive @ HP%** - Casts SoV when certain offensive enemy buffs are popped @ Player HP%  
+**Auto SoV Basic @ HP%** - Casts SoV @ Player HP%  
+
+**Eye for an Eye**  
+**Auto Eye for an Eye @ Player:** - Enables Auto Eye for an Eye @ Player  
+**Auto EfaE Reactive @ HP%** - Casts EfaE when certain offensive enemy buffs are popped @ Player HP%  
+**Auto EfaE Basic @ HP%** - Casts EfaE @ Player HP%  
+
+**Blessing of Sacrifice**  
+**Auto Blessing of Sacrifice @ Party:** - Enables Auto Blessing of Sacrifice @ Party  
+**Auto BoSac Party Reactive @ HP%** - Casts BoSac when certain offensive enemy buffs are popped @ Party HP%  
+**Auto BoSac Party Basic @ HP%** - Casts BoSac @ Player HP%  
+
+**Blessing of Sanctuary**  
+**Auto Blessing of Sanctuary @ Party:** - Enables Auto Blessing of Sanctuary @ Party  
+**Auto BoSanc Party/Player Reactive @ HP%** - Casts BoSanc when specific CCs and Silences are used @ Party/Player HP%  
+**Sanc CC or Silence above X seconds:** - Enables Auto BoSanc on CC and Silences above X seconds  
+
+**Blessing of Freedom**  
+**Auto Blessing of Freedom @ Player:** - Enables Auto Blessing of Freedom @ Player  
+**BoF Roots @ Player:** - Enables Auto BoF when Rooted @ Player  
+**BoF Roots @ Player above X seconds:** - Enables Auto BoF for Roots @ Player above X seconds  
+**BoF Slows @ Player:** - Enables Auto BoF when Slowed @ Player  
+**BoF Slows @ Player above X seconds:** - Enables Auto BoF for Slows @ Player above X seconds  
+**BoF @ Player only during big CDs:** - Enables Auto BoF @ Player only when you have Big CDs popped such as Avenging Wrath  
+**Auto Blessing of Freedom @ Party:**  - Enables Auto Blessing of Freedom @ Party  
+**BoF Roots @ Party:** - Enables Auto BoF when Rooted @ Party  
+**BoF Roots @ Party above X seconds:** - Enables Auto BoF for Roots @ Party above X seconds  
+**BoF Slows @ Party:** - Enables Auto BoF when Slowed @ Party  
+**BoF Slows @ Party above X seconds:** - Enables Auto BoF for Slows @ Party above X seconds  
+
+**Cleanse Toxins**  
+**Auto Cleanse Toxins @ Player:** - Enables Auto Cleanse Toxins @ Player  
+**Auto Cleanse Toxins during Burst:** - Enables Auto Cleanse Toxins during Burst mode  
 
 **Casting**  
-**Cast Ring of Peace @ Cursor:** - Changes your Ring of Peace to use @cursor instead of being manually placeable.  
+**Cast Final Reckoning @ Player:** - Casts Final Reckoning @ Player during Burst - selecting neither Cursor or Player will default to manual click  
+**Cast Final Reckoning @ Cursor:** - Casts Fianl Reckoning @ Cursor during Burst - selecting neither Cursor or Player will default to manual click  
 
 **Miscellaneous**  
-**Auto Grapple:** - Automatically casts Grapple on your target or arena1-3 melee damage class with an important buff, such as Avatar, Shadow Dance etc  
-**Auto Provoke:** - Automatically casts Provoke on your target if they're outside of range to keep them in combat  
-**Auto Tigereye Brew:** - Automatically casts Tigereye Brew if your target has BoP, Demon Armor or is a class which will take more damage from nature vs physical. Cancels itself when no longer needed.    
-**Auto Detox Self:** - Automatically uses Detox on Self when a debuff worth Detoxing has been cast on you.  
-**Auto Detox Self:** - Automatically uses Detox on Party1-3 when a debuff worth Detoxing has been cast on your Party members.   
-**Auto Slow Flying Serpent Kick:** - Automatically uses the FSK Slow when flying towards and in Range of Target.  
-**Auto Paralysis on Big DMG Interrupt:** - Automatically uses Paralysis when your target or focus is about to cast a huge damage spell and you can't interrupt them.  
-**Auto Ring of Peace on Big DMG Interrupt:** - Automatically uses Ring of Peace at your feet when your target or focus is within 8 yards of you and they're about to cast a huge damage spell and you can't interrupt or paralysis them.  
-**Auto Paralysis Focus during Burst:** - Automatically casts Paralysis on your Focus when you're Bursting and they're not in CC and not Immune to your Paralysis.  
+**Auto Aura Fallback:** - Auto Aura to fall back to when no Aura Toggle is used  
+**Auto Crusader Aura when Mounted:** - Casts Crusader Aura when mounted, casts toggled or fallback Aura when close to enemy Arena player  
+**Auto Dispel Mindgames (Racial):** - Casts Fireblood or Stoneform when under the effects of Mindgames  
+**Auto CC @ Focus during Burst:** - Casts Hammer of Justice or Blinding Light on Focus durin Burst mode  
+**Auto Retribution Aura when Party close to dying:** - Casts Retribution Aura if you use the talent Ultimate Retribution when a party member is about to die  
+**Start Combat from Out of Combat:** - Starts attacking the target automatically when out of combat  
+**Auto Hand of Reckoning:** - Casts Hand of Reckoning @ target when no other ranged abilities are available  
+**WeakAuras Support:** - Enables support for the WeakAuras: https://wago.io/l4EUWMc9V  
 
 **Auto Focus**  
 **Auto Focus non-target 2v2:** - Automatically sets focus on the enemy arena player who isn't your target in a 2v2.  
 **Auto Focus Healer 3v3:** - Automatically sets focus on the enemy arena player who is a Healer. One enemy player dies so only two remains, it falls back to focusing who isn't your target.  
 
-**Not Recommended**  
-**Auto Tiger's Lust Roots:** - For you who like auto pilot, this one will remove any roots you have with Tiger's Lust automatically.  
-**Auto Tiger's Lust Roots:** - For you who like auto pilot, this one will remove any slows you have with Tiger's Lust automatically.  
-**Cancel FoF to WDP and ToD @ HP%** - For you who like auto pilot, this one will force a Whirling Dragon Punch to be cast if it will put your target within range of Touch of Death.  
-**Auto Transcendence: Transfer @ HP%** - For you who like auto pilot, this one will automatically teleport you back to your clone when at or below the HP percentage.  
 
 ***
 
@@ -203,29 +235,6 @@ A feature not working as expected? Rotation not performing as what you believe i
 
 ## Disclaimer:  
 I can't help you with Aimsharp client issues. If your Aimsharp doesn't work, please fix that first using the Aimsharp Discord.  
+Possible fixes include, but aren't limited to: removing your save.dat file in the rotation folder, deleting your Aimsharp addon in the WoW interface folder, reinstalling Aimsharp, etc.  
 
 ***
-
-## Advanced Users:  
-You can use WeakAuras to see what you've toggled on, it helps to realize if you've kept Burst on but forgot about it.  
-Import this WeakAura group: https://wago.io/fK9QN1Enz  
-Password: aimsharp  
-Once imported, you just need to add one row to each of your toggle Macros.  
-**Aimsharp Toggle:**  
-`/xxxxx toggle`  
-`/run local cvar="Toggle" SetCVar(cvar,1-GetCVar(cvar),cvar)`  
-**Burst:**  
-`/xxxxx Burst`  
-`/run local cvar="Burst" SetCVar(cvar,1-GetCVar(cvar),cvar)`  
-**Vivify:**  
-`/xxxxx Vivify`  
-`/run local cvar="Vivify" SetCVar(cvar,1-GetCVar(cvar),cvar)`  
-**Hold Xuen until Second SEF:**  
-`/xxxxx HoldXuenSecondSEF`  
-`/run local cvar="HoldXuen" SetCVar(cvar,1-GetCVar(cvar),cvar)`  
-**Auto Target:**  
-`/xxxxx AutoTarget`  
-`/run local cvar="AutoTarget" SetCVar(cvar,1-GetCVar(cvar),cvar)`  
-
-Keep in mind that the WeakAura can get "out of sync" if you restart the rotation with this being active etc.  
-To reset it, /reload when the icon **isn't** showing if it becomes out of sync.  
