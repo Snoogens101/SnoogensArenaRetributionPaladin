@@ -70,39 +70,49 @@ Password: `aimsharp`
 Toggles Burst mode rotation On (off default)  
 `/xxxxx BurstPrep`  
 Toggles Burst Preparation mode rotation On (off default) - conserves important Burst CDs and saves up Holy Power to automatically place you in Burst mode when all is ready  
-`/xxxxx HoldXuenSecondSEF`  
-Toggles Hold Xuen for the 2nd Storm, Earth, and Fire On (off default) - good to use when you know the kill-target will not die during the first SEF  
-`/xxxxx Vivify`  
-Toggles Vivify On (off default) - will spam Vivify until you turn it off  
-`/xxxxx AutoTarget`  
-Toggles Auto Target On (off default)  
-`/xxxxx SerenityManual`  
-Toggles Serenity to be Manual (off default)   
+`/xxxxx FlashofLight`  
+Toggles Flash of Light On (off default) - will spam Flash of Light until you turn it off  
+`/xxxxx WordofGloryT`  
+Toggles Word of Glory On (off default) - will use Holy Power for Word of Glory to heal you and your Party until you turn it off  
+`/xxxxx AOE`  
+Toggles Automatic AOE On (off default) - will cast Divine Storm when there's more than one enemy nearby until you turn it off  
+`/xxxxx Devotion`  
+Toggles Devotion Aura (off default) - will set Devotion Aura as your default Aura until you turn it off  
+`/xxxxx Concentration`  
+Toggles Concentration Aura (off default) - will set Concentration Aura as your default Aura until you turn it off  
+`/xxxxx Retribution`  
+Toggles Retribution Aura (off default) - will set Retribution Aura as your default Aura until you turn it off  
 `/xxxxx PhialManual`  
 Toggles Phial of Serenity to be Manual (off default)  
 `/xxxxx RacialManual`  
-Toggles Racial to be Manual (off by default, therefore Racial is Automatic when bursting)  
+Toggles Racial to be Manual (off by default)
 
 ***
 
 ## Queues:    
+`/xxxxx HammerofJustice`  
+Queues Hemmer of Justice @ Target on the next GCD  
+`/xxxxx HammerofJusticeF`  
+Queues Hammer of Justice @ Focus on the next GCD  
+`/xxxxx DivineShield`  
+Queues Divine Shield on the next GCD  
+`/xxxxx WordofGlory`  
+Queues Word of Glory (@Player of your Target is Hostile, or @Target if Target is Friendly) on the next GCD  
+`/xxxxx DivineSteed`  
+Queues Divine Steed on the next GCD  
+`/xxxxx BlindingLight`  
+Queues Blinding Light on the next GCD  
+`/xxxxx Repentance`  
+Queues Repentance @ Target on the next GCD  
+`/xxxxx BlessingofFreedom`  
+Queues Blessing of Freedom (@Player of your Target is Hostile, or @Target if Target is Friendly) on the next GCD  
+`/xxxxx BlessingofProtection`  
+Queues Blessing of Protection (@Player of your Target is Hostile, or @Target if Target is Friendly) on the next GCD  
+`/xxxxx BlessingofSacrifice`  
+Queues Blessing of Sacrifice @ Target if Target is Friendly on the next GCD  
+`/xxxxx BlessingofSanctuary`  
+Queues Blessing of Sanctuary @ Target if Target is Friendly on the next GCD  
 
-`/xxxxx Paralysis`  
-Queues Paralysis @ Target on the next GCD  
-`/xxxxx ParalysisFocus`  
-Queues Paralysis @ Focus on the next GCD  
-`/xxxxx RingofPeace`  
-Queues Ring of Peace on the next GCD  
-`/xxxxx LegSweep`  
-Queues Leg Sweep on the next GCD  
-`/xxxxx FlyingSerpentKick`  
-Queues Flying Serpent Kick on the next GCD  
-`/xxxxx GrappleWeapon`  
-Queues Grapple Weapon on the next GCD  
-`/xxxxx Transfer`  
-Queues Transcendence: Transfer on the next GCD  
-`/xxxxx DoorofShadows`  
-Queues Door of Shadows on the next GCD  
 
 ***
 
