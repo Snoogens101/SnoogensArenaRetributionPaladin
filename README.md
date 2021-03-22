@@ -142,20 +142,20 @@ Queues Blessing of Sanctuary @ Target if Target is Friendly on the next GCD
 **Reaction Time (ms):** - Enter your preferred reaction time in milliseconds for features such as Blessing of Freedom, Sanctuary etc. I recommend keeping it as default.  
 **Convenant:** - Select your Covenant  
 
-**Trinkets and Phial**
+**Trinkets and Phial**  
 **Top/Bottom Trinket:** - Set to `On-use DPS` that you want to use during Burst.  Set to `On-use HP` to use automatically at 35% Health.  
 **Auto Summon Steward** - Automatically Summons your Steward in Arena before the doors open so you won't forget your potions.  
 **Auto Phial of Serenity @ HP%** - Uses your Phial of Serenity automatically at the set and below Health percentage.  
 **Auto Healthstone @ HP%** - Uses Healthstone automatically at the set and below Health percentage.  
 
-**Word of Glory - Toggle**
+**Word of Glory - Toggle**  
 **No WoG during Burst:** - Doesn't use WoG when WordofGloryT is On and you're in Burst mode  
 **Auto Word of Glory Player @ HP%** - Casts Word of Glory on Player @ HP% and under  
 **Auto Word of Glory Party @ HP%** - Casts Word of Glory on Party @ HP% and under  
 
-**Divine Shield**
-**Auto Divine Shield @ HP%:** - Enables Auto Divine Shield @ HP% 
-**Auto Divine Basic @ HP%** - Casts Divine Shield @ HP%  
+**Divine Shield**  
+**Auto Divine Shield @ HP%:** - Enables Auto Divine Shield @ HP%   
+**Auto Divine Basic @ HP%** - Casts Divine Shield @ HP%   
 
 **Lay on Hands**  
 **Auto Lay on Hands @ HP%:** - Enables Auto Lay on Hands @ HP%  
