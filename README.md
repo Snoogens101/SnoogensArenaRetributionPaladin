@@ -49,7 +49,7 @@ Password: `aimsharp`
 **Auto Auras!**  
 • Choose what your Aura you want to use, with automatic Cursader Aura logic when mounted  
 
-**Auto Dispel Mindgames (Racial)!**
+**Auto Dispel Mindgames (Racial)!**  
 • Dispels Mindgames using your Racial  
 
 **Auto CC on Focus during Burst!**  
