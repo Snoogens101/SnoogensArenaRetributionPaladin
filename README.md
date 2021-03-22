@@ -2,12 +2,11 @@
 ![alt text](https://i.imgur.com/5rOW5we.png)  
 
 A PVP only rotation with a specific focus on Arena, however with full support for Battleground usage.  
-Supports any level.  
 Only compatible with English Language World of Warcraft Client. This means that this rotation won't work for WoW clients with German, Russian etc languages.  
 Purchase a license through https://shoppy.gg/@snoogens  
 Discord: https://discord.gg/VksJWWk9PS  
-Unzip and place the `Snoogens-Arena-Windwalker-Monk` folder under your Aimsharp Rotations folder, e.g. `X:\AimsharpFolder\Bin\Rotations`  
-Place the `license.txt` file you've recieved by email after purchasing in the `Snoogens-Arena-Windwalker-Monk` folder.  
+Unzip and place the `Snoogens-Arena-Retribution-Paladin` folder under your Aimsharp Rotations folder, e.g. `X:\AimsharpFolder\Bin\Rotations`  
+Place the `license.txt` file you've recieved by email after purchasing in the `Snoogens-Arena-Retribution-Paladin` folder.  
 
 I recommend using this rotation together with Aimsharp's ArenaPVP Kicks plugin.  
 
