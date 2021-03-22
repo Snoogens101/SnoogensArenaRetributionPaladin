@@ -24,22 +24,19 @@ Password: `aimsharp`
 **Burst Preparation Mode!**  
 •	Makes sure you will get maximum efficiency from your Burst before automatically placing you in Burst mode  
 
-**Trinket Support!**  
-•	DPS trinkets when you're Bursting, HP trinket when you're on low Health  
-
-**Covenant Support!**  
-•	Supports all Covenants   
-
 **Automatic Defensives/Mitigations!**  
 •	Auto Phial of Serenity @ HP%  
 •	Auto Summon Steward at the beginning of Arena  
 •	Healthstone @ HP%  
 
+**Auto Blessing of Freedom Roots!**  
+• Advanced logic to remove Roots from yourself and your party members.    
+
+**Auto Blessing of Freedom Slows!**  
+• Advanced logic to remove Slows from yourself and your party members.  
+
 **Placeable, @Cursor or @Player Casts!**  
 • Choose how you want to auto cast Final Reckoning  
-
-**Auto Hand of Reckoning!**  
-• Casts Hand of Reckoning on the target when there's no other option to keep them in combat    
 
 **Auto Cleanse Toxins!**  
 • Cleanses yourself of any important Poisons and Diseases    
@@ -47,9 +44,14 @@ Password: `aimsharp`
 **Auto Hammer of Justice on Focus during Burst!**  
 • Casts Hammer of Justice on your Focus during Burst while doing various checks to make sure you're not overlapping CC or casting into Immune players  
 
-**Auto Focus!**  
-• 2v2 - Automatically focuses whoever you're not targeting  
-• 3v3 - Automatically focuses the Healer  
+**Auto Hand of Reckoning!**  
+• Casts Hand of Reckoning on the target when there's no other option to keep them in combat    
+
+**Trinket Support!**  
+•	DPS trinkets when you're Bursting, HP trinket when you're on low Health  
+
+**Covenant Support!**  
+•	Supports all Covenants   
 
 **Immunity Checks!**  
 • Checks against all possible immunities (including DR) before doing any abilities, stuns etc. Fully dymanic based on what each ability does  
@@ -57,11 +59,9 @@ Password: `aimsharp`
 **Racial Support!**  
 • Uses your Racial ability when it's best    
 
-**Auto Blessing of Freedom Roots!**  
-• Advanced logic to remove Roots from yourself and your party members.    
-
-**Auto Blessing of Freedom Slows!**  
-• Advanced logic to remove Slows from yourself and your party members.  
+**Auto Focus!**  
+• 2v2 - Automatically focuses whoever you're not targeting  
+• 3v3 - Automatically focuses the Healer  
 
 ***
 
