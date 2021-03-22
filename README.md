@@ -27,25 +27,45 @@ Password: `aimsharp`
 **Automatic Defensives/Mitigations!**  
 •	Auto Phial of Serenity @ HP%  
 •	Auto Summon Steward at the beginning of Arena  
-•	Healthstone @ HP%  
+•	Auto Healthstone @ HP%  
+•	Auto Divine Shield @ HP%  
+•	Auto Lay on Hands @ HP%  
+•	Auto Blessing of Protection @ HP% - Basic and Advanced Logic (Reactive) for both Player and Party  
+•	Auto Shield of Vengeance @ HP% - Basic and Advanced Logic (Reactive) for Player  
+•	Auto Eye for an Eye @ HP% - Basic and Advanced Logic (Reactive) for Player  
+•	Auto Blessing of Sacrifice @ HP% - Basic and Advanced Logic (Reactive) for Party  
+•	Auto Blessing of Sanctuary @ HP% - Basic and Advanced Logic (Reactive) for Party  
 
-**Auto Blessing of Freedom Roots!**  
-• Advanced logic to remove Roots from yourself and your party members.    
 
-**Auto Blessing of Freedom Slows!**  
-• Advanced logic to remove Slows from yourself and your party members.  
-
-**Placeable, @Cursor or @Player Casts!**  
-• Choose how you want to auto cast Final Reckoning  
+**Auto Blessing of Freedom Roots and Slows!**  
+• Advanced logic to remove Roots and Slows from yourself and your party members.    
 
 **Auto Cleanse Toxins!**  
 • Cleanses yourself of any important Poisons and Diseases    
 
-**Auto Hammer of Justice on Focus during Burst!**  
-• Casts Hammer of Justice on your Focus during Burst while doing various checks to make sure you're not overlapping CC or casting into Immune players  
+**Placeable, @Cursor or @Player Casts!**  
+• Choose how you want to auto cast Final Reckoning  
+
+**Auto Auras!**  
+• Choose what your Aura you want to use, with automatic Cursader Aura logic when mounted  
+
+**Auto Dispel Mindgames (Racial)!**
+• Dispels Mindgames using your Racial  
+
+**Auto CC on Focus during Burst!**  
+• Casts Hammer of Justice and/or Blinding Light on your Focus during Burst while doing various checks to make sure you're not overlapping CC or casting into Immune players  
+
+**Auto Retribution Aura for Ultimate Retributon!**  
+• Casts Retribution Aura when a team mate is about to die for Avenging Wrath  
+
+**Start Combat from Out of Combat!**
+• No need to do a manual cast or auto-attack - combat will start automatically when you're in range  
 
 **Auto Hand of Reckoning!**  
 • Casts Hand of Reckoning on the target when there's no other option to keep them in combat    
+
+**WeakAuras Support!**
+• See what toggles are On/Off using custom WeakAuras  
 
 **Trinket Support!**  
 •	DPS trinkets when you're Bursting, HP trinket when you're on low Health  
@@ -117,14 +137,18 @@ Queues Blessing of Sanctuary @ Target if Target is Friendly on the next GCD
 ***
 
 ## Settings:  
-**First 5 Letters of the Addon:** - enter your Aimsharp addon's first 5 letters, e.g. if your Aimsharp addon is called `DankMemes`, enter `dankm`.  
-**Reaction Time (ms):** - enter your preferred reaction time in milliseconds for features such as Grapple Weapon, Diffuse Magic etc. I recommend keeping it as default.  
+**First 5 Letters of the Addon:** - Enter your Aimsharp addon's first 5 letters, e.g. if your Aimsharp addon is called `DankMemes`, enter `dankm`.  
+**Ingame World Latency:** - Enter your ingame world latency (ms) for an absolutely optimized and fast rotation  
+**Reaction Time (ms):** - Enter your preferred reaction time in milliseconds for features such as Blessing of Freedom, Sanctuary etc. I recommend keeping it as default.  
+**Convenant:** - Select your Covenant  
 
 **Trinkets and Phial**
-**Top/Bottom Trinket:** - Set the one to `On-use DPS` that you want to use during Burst, i.e. your on-use damage trinket.  
-Set to `On-use HP` to use automatically at 35% Health.  
-**Auto Phial of Serenity @ HP%** - Uses your Phial of Serenity automatically at the set and below Health percentage.  
+**Top/Bottom Trinket:** - Set to `On-use DPS` that you want to use during Burst.  Set to `On-use HP` to use automatically at 35% Health.  
 **Auto Summon Steward** - Automatically Summons your Steward in Arena before the doors open so you won't forget your potions.  
+**Auto Phial of Serenity @ HP%** - Uses your Phial of Serenity automatically at the set and below Health percentage.  
+**Auto Healthstone @ HP%** - Uses Healthstone automatically at the set and below Health percentage.  
+
+**Word of Glory - Toggle**
 
 **Mitigation**  
 **Auto Diffuse Magic on Big DMG Spell:** - Casts Diffuse Magic when a big damage spell like Chaos Bolt, Convoke etc is about to hit you.  
@@ -136,7 +160,6 @@ Set to `On-use HP` to use automatically at 35% Health.
 **Auto Defensive DH The Hunt:** - Casts a defensive when a Demon Hunter is about to finish a The Hunt cast on you.  
 **Auto Fortifying Brew @ HP%** - Uses Fortifying Brew automatically at the set and below Health percentage.  
 **Auto Touch of Karma @ HP%** - Uses Touch of Karma automatically at the set and below Health percentage.  
-**Auto Healthstone @ HP%** - Uses Healthstone automatically at the set and below Health percentage.  
 **Panic CC @ HP%** - Uses any available CC on your target in case you're about to die.  
 
 **Casting**  
