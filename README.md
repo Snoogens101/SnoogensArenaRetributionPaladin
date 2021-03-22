@@ -58,7 +58,7 @@ Password: `aimsharp`
 **Auto Retribution Aura for Ultimate Retributon!**  
 • Casts Retribution Aura when a team mate is about to die for Avenging Wrath  
 
-**Start Combat from Out of Combat!**
+**Start Combat from Out of Combat!**  
 • No need to do a manual cast or auto-attack - combat will start automatically when you're in range  
 
 **Auto Hand of Reckoning!**  
