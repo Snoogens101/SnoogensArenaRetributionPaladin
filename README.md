@@ -149,18 +149,25 @@ Queues Blessing of Sanctuary @ Target if Target is Friendly on the next GCD
 **Auto Healthstone @ HP%** - Uses Healthstone automatically at the set and below Health percentage.  
 
 **Word of Glory - Toggle**
+**No WoG during Burst:** - Doesn't use WoG when WordofGloryT is On and you're in Burst mode  
+**Auto Word of Glory Player @ HP%** - Casts Word of Glory on Player @ HP% and under  
+**Auto Word of Glory Party @ HP%** - Casts Word of Glory on Party @ HP% and under  
 
-**Mitigation**  
-**Auto Diffuse Magic on Big DMG Spell:** - Casts Diffuse Magic when a big damage spell like Chaos Bolt, Convoke etc is about to hit you.  
-**Auto Diffuse Magic on Big Debuff Combo:** - Casts Diffuse Magic when a Warlock or Shadow Priest are trying to melt you down with their DoTs and CDs.  
-**Auto Diffuse Magic on Combustion:** - Casts Diffuse Magic when a Mage has popped Combustion and is about to nuke you down. Includes a slider if you only want this to happen at a certain HP%.      
-**Auto Diffuse Magic on Karma:** - Casts Diffuse Magic when a Monk has popped Touch of Karma on you to dispel it. Includes a slider if you only want this to happen at a certain HP%.      
-**Auto Diffuse Magic on Karma:** - Casts Diffuse Magic when a Priest has popped Mindgames on you to dispel it. Includes a slider if you only want this to happen at a certain HP%.    
-**Auto Dampen Harm on Big DMG Buff:** - Casts Dampen Harm when a big damage buff has been popped like Avatar, Shadow Dance etc and they are about to smack you.    
-**Auto Defensive DH The Hunt:** - Casts a defensive when a Demon Hunter is about to finish a The Hunt cast on you.  
-**Auto Fortifying Brew @ HP%** - Uses Fortifying Brew automatically at the set and below Health percentage.  
-**Auto Touch of Karma @ HP%** - Uses Touch of Karma automatically at the set and below Health percentage.  
-**Panic CC @ HP%** - Uses any available CC on your target in case you're about to die.  
+**Divine Shield**
+**Auto Divine Shield @ HP%:** - Enables Auto Divine Shield @ HP% 
+**Auto Divine Basic @ HP%** - Casts Divine Shield @ HP%  
+
+**Lay on Hands**  
+**Auto Lay on Hands @ HP%:** - Enables Auto Lay on Hands @ HP%  
+**Auto LoH Basic @ HP%** - Casts Lay on Hands @ HP%  
+
+**Blessing of Protection**  
+**Auto Blessing of Protection @ Player:** - Enables Auto Blessing of Protection @ Player  
+**Auto BoP Player Reactive @ HP%**
+**Auto BoP Player Basic @ HP%**
+**Auto Blessing of Protection @ Party:**
+**Auto BoP Party Reactive @ HP%**
+**Auto BoP Party Basic @ HP%**
 
 **Casting**  
 **Cast Ring of Peace @ Cursor:** - Changes your Ring of Peace to use @cursor instead of being manually placeable.  
