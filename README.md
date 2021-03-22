@@ -235,6 +235,6 @@ A feature not working as expected? Rotation not performing as what you believe i
 
 ## Disclaimer:  
 I can't help you with Aimsharp client issues. If your Aimsharp doesn't work, please fix that first using the Aimsharp Discord.  
-Possible fixes include, but aren't limited to: removing your save.dat file in the rotation folder, deleting your Aimsharp addon in the WoW interface folder, reinstalling Aimsharp, etc.  
+Possible fixes include, but aren't limited to: removing your save.dat file in the rotation folder, deleting your Aimsharp addon in the WoW interface folder, reinstalling Aimsharp, turning off AA and MSAA in your ingame Graphics settings etc.  
 
 ***
