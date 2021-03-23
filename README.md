@@ -1,7 +1,7 @@
 # Snoogens Arena Retribution Paladin   
 ![alt text](https://i.imgur.com/5rOW5we.png)  
 
-A PVP only rotation with a specific focus on Arena, however with full support for Battleground usage.  
+A PVP only rotation with a specific focus on Arena, however with support for Battleground usage.  
 Only compatible with English Language World of Warcraft Client. This means that this rotation won't work for WoW clients with German, Russian etc languages.  
 Purchase a license through https://shoppy.gg/@snoogens  
 Discord: https://discord.gg/VksJWWk9PS  
