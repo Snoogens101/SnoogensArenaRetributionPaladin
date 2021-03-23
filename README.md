@@ -71,7 +71,7 @@ Password: `aimsharp`
 •	DPS trinkets when you're Bursting, HP trinket when you're on low Health  
 
 **Covenant Support!**  
-•	Supports all Covenants   
+•	Supports only Kyrian at the moment, as all other options aren't viable in PVP    
 
 **Immunity Checks!**  
 • Checks against all possible immunities (including DR) before doing any abilities, stuns etc. Fully dymanic based on what each ability does  
