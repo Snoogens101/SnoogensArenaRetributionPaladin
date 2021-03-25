@@ -36,12 +36,11 @@ Password: `aimsharp`
 •	Auto Blessing of Sacrifice @ HP% - Basic and Advanced Logic (Reactive) for Party  
 •	Auto Blessing of Sanctuary @ HP% - Basic and Advanced Logic (Reactive) for Party  
 
-
 **Auto Blessing of Freedom Roots and Slows!**  
 • Advanced logic to remove Roots and Slows from yourself and your party members.    
 
 **Auto Cleanse Toxins!**  
-• Cleanses yourself of any important Poisons and Diseases    
+• Cleanses yourself and your party of any important Poisons and Diseases    
 
 **Placeable, @Cursor or @Player Casts!**  
 • Choose how you want to auto cast Final Reckoning  
@@ -204,6 +203,7 @@ Queues Blessing of Sanctuary @ Target if Target is Friendly on the next GCD
 
 #### Cleanse Toxins  
 **Auto Cleanse Toxins @ Player:** - Enables Auto Cleanse Toxins @ Player  
+**Auto Cleanse Toxins @ Party:** - Enables Auto Cleanse Toxins @ Party  
 **Auto Cleanse Toxins during Burst:** - Enables Auto Cleanse Toxins during Burst mode  
 
 #### Casting  
