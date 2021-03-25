@@ -218,6 +218,7 @@ Queues Blessing of Sanctuary @ Target if Target is Friendly on the next GCD
 **Auto Retribution Aura when Party close to dying:** - Casts Retribution Aura if you use the talent Ultimate Retribution when a party member is about to die  
 **Start Combat from Out of Combat:** - Starts attacking the target automatically when out of combat  
 **Auto Hand of Reckoning:** - Casts Hand of Reckoning @ target when no other ranged abilities are available  
+**Wake of Ashes @ HP% for Holy Power** - Casts Wake of Ashes when you're at or below the set HP% if you have less than 3 Holy Power, to instantly generate 3HP for a WoG  
 **WeakAuras Support:** - Enables support for the WeakAuras: https://wago.io/l4EUWMc9V  
 
 #### Auto Focus  
