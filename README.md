@@ -101,6 +101,8 @@ Toggles Devotion Aura (off default) - will set Devotion Aura as your default Aur
 Toggles Concentration Aura (off default) - will set Concentration Aura as your default Aura until you turn it off  
 `/xxxxx Retribution`  
 Toggles Retribution Aura (off default) - will set Retribution Aura as your default Aura until you turn it off  
+`/xxxxx ConsecrationOff`  
+Toggles ConsecrationOff (off default) - will set Consecration usage to be Off, i.e. it will not be used as a Filler anymore    
 `/xxxxx PhialManual`  
 Toggles Phial of Serenity to be Manual (off default)  
 `/xxxxx RacialManual`  
