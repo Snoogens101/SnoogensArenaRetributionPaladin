@@ -32,8 +32,10 @@ Password: `aimsharp`
 •	Auto Lay on Hands @ HP%  
 •	Auto Blessing of Protection @ HP% - Basic and Advanced Logic (Reactive) for both Player and Party  
 •	Auto Shield of Vengeance @ HP% - Basic and Advanced Logic (Reactive) for Player  
+•	Auto Shield of Vengeance vs The Hunt  
 •	Auto Eye for an Eye @ HP% - Basic and Advanced Logic (Reactive) for Player  
 •	Auto Blessing of Sacrifice @ HP% - Basic and Advanced Logic (Reactive) for Party  
+•	Auto Blessing of Sacrifice vs The Hunt  
 •	Auto Blessing of Sanctuary @ HP% - Basic and Advanced Logic (Reactive) for Party  
 
 **Auto Blessing of Freedom Roots and Slows!**  
