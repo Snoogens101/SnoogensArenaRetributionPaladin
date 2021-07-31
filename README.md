@@ -1,4 +1,4 @@
-# Snoogens Arena Retribution Paladin   
+# Snoogens Arena Retribution Paladin OUTDATED   
 ![alt text](https://i.imgur.com/5rOW5we.png)  
 
 A PVP only rotation with a specific focus on Arena, however with support for Battleground usage.  
